@@ -1,0 +1,11 @@
+nav a{
+   margin-right: 20px;
+   text-decoration: none;
+   
+}
+nav a.active{
+   background-color: gray;
+   padding: 8px;
+   border-radius: 8px;
+   
+}
